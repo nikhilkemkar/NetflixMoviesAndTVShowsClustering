@@ -22,7 +22,7 @@ Preprocessing of Textual Data: A comprehensive array of textual data preprocessi
 
 Cluster Implementation: Leveraging the efficacy of the K-Means and Agglomerative Hierarchical clustering algorithms, we orchestrated the clustering of movies. The focus was on establishing the optimal number of clusters that best encapsulated the inherent relationships within the dataset.
 
-Creation of Content-Based Recommendation System: A content-based recommendation system was meticulously crafted using a similarity matrix generated through cosine similarity calculations. This innovative approach empowers users with tailored recommendations, rendering ten suggestions rooted in the type of movie or show they've previously viewed.
+Creation of Content-Based Recommendation System: A content-based recommendation system was meticulously crafted using a similarity matrix generated through cosine similarity calculations. This innovative approach empowers users with tailored recommendations, rendering ten suggestions rooted in the type of movie or show they've previously viewed.  
 
 Project Structure
 ├── README.md
